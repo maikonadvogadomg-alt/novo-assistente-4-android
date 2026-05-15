@@ -6,14 +6,14 @@
     "copy": "cap copy android",
     "build": "cd android && ./gradlew assembleDebug"
   },
-  "dependencies": {
-    "@capacitor/android": "6.1.2",
-    "@capacitor/core": "6.1.2",
+  "dependencies": 
+    "@capacitor/android": "6.3.2",
+    "@capacitor/core": "6.3.2",
     "@capacitor/preferences": "6.0.3",
     "@capacitor-community/sqlite": "6.0.2"
   },
   "devDependencies": {
-    "@capacitor/cli": "6.1.2",
+    "@capacitor/cli": "6.3.2",
     "typescript": "5.4.5"
   }
 }
